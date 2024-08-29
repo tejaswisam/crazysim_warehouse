@@ -2,3 +2,7 @@
 	path = ros2_ws/src/crazyswarm2
 	url = https://github.com/tejaswisam/crazyswarm2.git
 	branch = sim
+[submodule "crazyflie-firmware"]
+	path = crazyflie-firmware
+	url = https://github.com/llanesc/crazyflie-firmware.git
+	branch = gz-transport-test
